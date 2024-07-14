@@ -1,1 +1,3 @@
-# Work-Notes
+# Work Notes
+
+紀錄一些工作上聽到或接觸到的技術 & 專有名詞
