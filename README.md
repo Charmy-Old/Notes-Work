@@ -9,3 +9,5 @@
 `2024-07-15` [什麼是 CA、RA](https://github.com/Charmying/Work-Notes/issues/2)  
 
 `2024-07-16` [什麼是 Stored Procedure](https://github.com/Charmying/Work-Notes/issues/3)  
+
+`2024-07-17` [什麼是 AES](https://github.com/Charmying/Work-Notes/issues/4)  
