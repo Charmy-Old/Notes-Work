@@ -11,3 +11,5 @@
 `2024-07-16` [什麼是 Stored Procedure](https://github.com/Charmying/Work-Notes/issues/3)  
 
 `2024-07-17` [什麼是 AES](https://github.com/Charmying/Work-Notes/issues/4)  
+
+`2024-07-18` [什麼是 CCCrypt GCM](https://github.com/Charmying/Work-Notes/issues/5)  
