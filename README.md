@@ -15,3 +15,5 @@
 `2024-07-18` [什麼是 CCCrypt GCM](https://github.com/Charmying/Work-Notes/issues/5)  
 
 `2024-07-19` [什麼是 AP TO AP 測試](https://github.com/Charmying/Work-Notes/issues/6)  
+
+`2024-07-19` [什麼是 Tracelog](https://github.com/Charmying/Work-Notes/issues/7)  
