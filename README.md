@@ -17,3 +17,5 @@
 `2024-07-19` [什麼是 AP TO AP 測試](https://github.com/Charmying/Work-Notes/issues/6)  
 
 `2024-07-20` [什麼是 Tracelog](https://github.com/Charmying/Work-Notes/issues/7)  
+
+`2024-07-21` [什麼是 Cluster](https://github.com/Charmying/Work-Notes/issues/8)  
