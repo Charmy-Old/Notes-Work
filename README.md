@@ -22,4 +22,4 @@
 
 `2024-07-22` [什麼是 公鑰與私鑰](https://github.com/Charmying/Work-Notes/issues/9)  
 
-`2024-07-22` [什麼是 RSA](https://github.com/Charmying/Work-Notes/issues/10)  
+`2024-07-26` [什麼是 RSA](https://github.com/Charmying/Work-Notes/issues/10)  
