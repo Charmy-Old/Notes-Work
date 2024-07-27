@@ -25,3 +25,5 @@
 `2024-07-26` [什麼是 RSA](https://github.com/Charmying/Work-Notes/issues/10)  
 
 `2024-07-27` [什麼是 JWT](https://github.com/Charmying/Work-Notes/issues/11)  
+
+`2024-07-28` [什麼是 Jaeger Collector](https://github.com/Charmying/Work-Notes/issues/12)  
