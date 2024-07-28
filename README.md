@@ -27,3 +27,5 @@
 `2024-07-27` [什麼是 JWT](https://github.com/Charmying/Work-Notes/issues/11)  
 
 `2024-07-28` [什麼是 Jaeger Collector](https://github.com/Charmying/Work-Notes/issues/12)  
+
+`2024-07-29` [什麼是 序列化](https://github.com/Charmying/Work-Notes/issues/13)  
