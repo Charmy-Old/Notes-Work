@@ -29,3 +29,5 @@
 `2024-07-28` [什麼是 Jaeger Collector](https://github.com/Charmying/Work-Notes/issues/12)  
 
 `2024-07-29` [什麼是 序列化](https://github.com/Charmying/Work-Notes/issues/13)  
+
+`2024-07-30` [什麼是 Database Transaction](https://github.com/Charmying/Work-Notes/issues/14)  
