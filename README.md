@@ -31,3 +31,5 @@
 `2024-07-29` [什麼是 序列化](https://github.com/Charmying/Work-Notes/issues/13)  
 
 `2024-07-30` [什麼是 Database Transaction](https://github.com/Charmying/Work-Notes/issues/14)  
+
+`2024-07-31` [什麼是 黑箱測試和白箱測試](https://github.com/Charmying/Work-Notes/issues/15)  
