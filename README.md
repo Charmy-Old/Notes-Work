@@ -35,3 +35,5 @@
 `2024-07-31` [什麼是 黑箱測試和白箱測試](https://github.com/Charmying/Work-Notes/issues/15)  
 
 `2024-08-01` [什麼是 WebSphere](https://github.com/Charmying/Work-Notes/issues/16)  
+
+`2024-08-02` [什麼是 Session Attribute](https://github.com/Charmying/Work-Notes/issues/17)  
