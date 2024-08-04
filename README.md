@@ -41,3 +41,5 @@
 `2024-08-03` [什麼是 AP to AP 測試 (Application to Application Testing)](https://github.com/Charmying/Work-Notes/issues/18)  
 
 `2024-08-04` [什麼是 eACH](https://github.com/Charmying/Work-Notes/issues/19)  
+
+`2024-08-05` [什麼是 交易軌跡鏈路追蹤](https://github.com/Charmying/Work-Notes/issues/20)  
