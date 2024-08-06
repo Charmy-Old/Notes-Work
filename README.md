@@ -45,3 +45,5 @@
 `2024-08-05` [什麼是 交易軌跡鏈路追蹤](https://github.com/Charmying/Work-Notes/issues/20)  
 
 `2024-08-06` [什麼是 Docker](https://github.com/Charmying/Work-Notes/issues/21)  
+
+`2024-08-07` [什麼是 K8s (Kubernetes)](https://github.com/Charmying/Work-Notes/issues/22)  
