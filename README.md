@@ -49,3 +49,5 @@
 `2024-08-07` [什麼是 K8s (Kubernetes)](https://github.com/Charmying/Work-Notes/issues/22)  
 
 `2024-08-08` [什麼是 Git Runner](https://github.com/Charmying/Work-Notes/issues/23)  
+
+`2024-08-09` [什麼是 JPA](https://github.com/Charmying/Work-Notes/issues/24)  
