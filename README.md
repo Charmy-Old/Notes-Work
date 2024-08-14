@@ -53,3 +53,5 @@
 `2024-08-09` [什麼是 JPA](https://github.com/Charmying/Work-Notes/issues/24)  
 
 `2024-08-14` [什麼是 Service Mesh](https://github.com/Charmying/Work-Notes/issues/25)  
+
+`2024-08-15` [什麼是 Refactor](https://github.com/Charmying/Work-Notes/issues/26)  
