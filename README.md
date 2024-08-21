@@ -55,3 +55,5 @@
 `2024-08-14` [什麼是 Service Mesh](https://github.com/Charmying/Work-Notes/issues/25)  
 
 `2024-08-15` [什麼是 Refactor](https://github.com/Charmying/Work-Notes/issues/26)  
+
+`2024-08-22` [什麼是 2 Factor](https://github.com/Charmying/Work-Notes/issues/27)  
