@@ -57,3 +57,5 @@
 `2024-08-15` [什麼是 Refactor](https://github.com/Charmying/Notes-Work/issues/26)  
 
 `2024-08-22` [什麼是 2 Factor](https://github.com/Charmying/Notes-Work/issues/27)  
+
+`2024-09-05` [什麼是 Nginx](https://github.com/Charmying/Notes-Work/issues/28)  
