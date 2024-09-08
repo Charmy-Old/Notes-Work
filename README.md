@@ -59,3 +59,5 @@
 `2024-08-22` [什麼是 2 Factor](https://github.com/Charmying/Notes-Work/issues/27)  
 
 `2024-09-05` [什麼是 Nginx](https://github.com/Charmying/Notes-Work/issues/28)  
+
+`2024-09-09` [F5 Networks](https://github.com/Charmying/Notes-Work/issues/29)  
