@@ -61,3 +61,5 @@
 `2024-09-05` [什麼是 Nginx](https://github.com/Charmying/Notes-Work/issues/28)  
 
 `2024-09-09` [F5 Networks](https://github.com/Charmying/Notes-Work/issues/29)  
+
+`2024-09-13` [什麼是 跨來源資源共用 (CORS)](https://github.com/Charmying/Notes-Work/issues/30)  
