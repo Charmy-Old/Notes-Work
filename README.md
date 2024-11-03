@@ -65,3 +65,5 @@
 `2024-09-13` [什麼是 跨來源資源共用 (CORS)](https://github.com/Charmying/Notes-Work/issues/30)  
 
 `2024-10-14` [營業日 和 系統日的差別](https://github.com/Charmying/Notes-Work/issues/31)  
+
+`2024-11-04` [什麼是 雜湊](https://github.com/Charmying/Notes-Work/issues/32)  
