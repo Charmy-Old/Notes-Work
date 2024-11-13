@@ -67,3 +67,5 @@
 `2024-10-14` [營業日 和 系統日的差別](https://github.com/Charmying/Notes-Work/issues/31)  
 
 `2024-11-04` [什麼是 雜湊](https://github.com/Charmying/Notes-Work/issues/32)  
+
+`2024-11-13` [什麼是 Base64](https://github.com/Charmying/Notes-Work/issues/33)  
