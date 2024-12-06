@@ -69,3 +69,6 @@
 `2024-11-04` [什麼是 雜湊](https://github.com/Charmying/Notes-Work/issues/32)  
 
 `2024-11-13` [什麼是 Base64](https://github.com/Charmying/Notes-Work/issues/33)  
+
+`2024-12-07` [什麼是 反向代理](https://github.com/Charmying/Notes-Work/issues/34)  
+
