@@ -72,3 +72,4 @@
 
 `2024-12-07` [什麼是 反向代理](https://github.com/Charmying/Notes-Work/issues/34)  
 
+`2024-12-15` [什麼是 Portal](https://github.com/Charmying/Notes-Work/issues/35)  
