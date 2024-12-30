@@ -75,3 +75,5 @@
 `2024-12-15` [什麼是 Portal](https://github.com/Charmying/Notes-Work/issues/35)  
 
 `2024-12-15` [什麼是 XML 和 XSLT](https://github.com/Charmying/Notes-Work/issues/36)  
+
+`2024-12-31` [什麼是 SessionPK](https://github.com/Charmying/Notes-Work/issues/37)  
