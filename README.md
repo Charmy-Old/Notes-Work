@@ -77,3 +77,5 @@
 `2024-12-26` [什麼是 XML 和 XSLT](https://github.com/Charmying/Notes-Work/issues/36)  
 
 `2024-12-31` [什麼是 SessionPK](https://github.com/Charmying/Notes-Work/issues/37)  
+
+`2024-01-19` [什麼是 Refresh Token](https://github.com/Charmying/Notes-Work/issues/38)  
