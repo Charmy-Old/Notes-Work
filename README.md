@@ -79,3 +79,5 @@
 `2024-12-31` [什麼是 SessionPK](https://github.com/Charmying/Notes-Work/issues/37)  
 
 `2024-01-19` [什麼是 Refresh Token](https://github.com/Charmying/Notes-Work/issues/38)  
+
+`2024-02-13` [什麼是 內聚 (Cohesion)](https://github.com/Charmying/Notes-Work/issues/39)  
