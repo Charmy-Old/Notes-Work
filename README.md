@@ -82,4 +82,4 @@
 
 `2024-02-13` [什麼是 內聚 (Cohesion)](https://github.com/Charmying/Notes-Work/issues/39)  
 
-`2024-02-15` [什麼是耦合 (Coupling)](https://github.com/Charmying/Notes-Work/issues/40)  
+`2024-02-15` [什麼是 耦合 (Coupling)](https://github.com/Charmying/Notes-Work/issues/40)  
